@@ -31,13 +31,14 @@ TensorFlow 1.1.0
 	3. To run this file, use commend ‘python train_model.py’
 	4. The script will save your CNN model in the same folder and the name is ‘my_model.h5’.
 
-## Acknowledgement
-This work is supported in part by the following grants: AFOSR award FA9550-12-1-0458; NIST award 70NANB14H012; NSF award CCF-1409601; DOE awards DESC0007456, DE-SC0014330; and Northwestern Data Science Initiative.
-
 ## Related Publications ##
 1. Z. Yang, Y. Yabansu, R. Al-Bahrani, W. Liao, A. Choudhary, S. Kalidindi, A. Agrawal, “Deep learning approaches for mining structure-property linkages in high contrast composites from simulation datasets”, under review, 2017.
 
 ## Contact
-Zijiang Yang (zijiangyang2016@u.northwestern.edu)
-Ankit Agrawal (ankitag@eecs.northwestern.edu)
-Alok Choudhary (choudhar@eecs.northwestern.edu)
+* Zijiang Yang (zijiangyang2016@u.northwestern.edu)
+* Ankit Agrawal (ankitag@eecs.northwestern.edu)
+* Alok Choudhary (choudhar@eecs.northwestern.edu)
+
+## Acknowledgement
+This work is supported in part by the following grants: AFOSR award FA9550-12-1-0458; NIST award 70NANB14H012; NSF award CCF-1409601; DOE awards DESC0007456, DE-SC0014330; and Northwestern Data Science Initiative.
+
