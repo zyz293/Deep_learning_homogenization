@@ -4,13 +4,13 @@ This software is an deep learning application for modeling processing-structure-
 To use this software, what the algorithm requires as input are a numpy array. The shape of this numpy array is (x, 51, 51, 51, 1) where x is the number of microscale volume elements (MVEs) and the dimension of microstructure should be three-dimensional (i.e. 51*51*51). The CNN will establish the PSP linkages in the materials system and predict its macroscale (effective) stiffness.
 
 ## Requirements ##
-Python 2.7
-Numpy 1.12.1 (or higher)
-Sklearn 0.18.1 (or higher)
-Keras 2.0.0 (or higher)
-HDF5
-Pickle
-TensorFlow 1.1.0
+* Python 2.7
+* Numpy 1.12.1 (or higher)
+* Sklearn 0.18.1 (or higher)
+* Keras 2.0.0 (or higher)
+* HDF5
+* Pickle
+* TensorFlow 1.1.0
 
 ## Files ##
 1. data.pkl: Pickle file. Example data of two-phase high contrast three-dimensional microstructure. It contains 20 MVEs and the dimension of each MVE is 51*51*51.
