@@ -22,7 +22,7 @@ To use this software, what the algorithm requires as input are a numpy array. Th
 ## How to run it
 1. To run model.py: 
 	1. Make sure the best_model.h5 in the same folder.
-	2. The data file of microstructure should be named as ‘data.pkl’, which is a pickle file. The data should be a numpy array. The shape of bumpy array is (x, 51, 51, 51, 1) where x is the number of microscale volume elements (MVEs) and the dimension of microstructure should be three-dimensional (i.e. 51*51*51). 
+	2. The data file of microstructure should be named as ‘data.pkl’, which is a pickle file. The data should be a numpy array. The shape of bumpy array is (x, 51, 51, 51, 1) where x is the number of microscale volume elements (MVEs) and the dimension of microstructure should be three-dimensional (i.e. 51x51x51). 
 	3. To run this file, use commend ‘python model.py’
 	4. The predicted results will be save in a Pickle file, named 'predict_result.pkl' in the same folder. 
 1. To run train_model.py: 
