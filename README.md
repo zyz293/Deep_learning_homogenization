@@ -32,7 +32,7 @@ To use this software, what the algorithm requires as input are a numpy array. Th
 	4. The script will save your CNN model in the same folder and the name is ‘my_model.h5’.
 
 ## Related Publications ##
-1. Z. Yang, Y. Yabansu, R. Al-Bahrani, W. Liao, A. Choudhary, S. Kalidindi, A. Agrawal, “Deep learning approaches for mining structure-property linkages in high contrast composites from simulation datasets”, under review, 2017.
+1. Z. Yang, Y. C. Yabansu, R. Al-Bahrani, W.-keng Liao, A. N. Choudhary, S. R. Kalidindi, and A. Agrawal, “Deep learning approaches for mining structure-property linkages in high contrast composites from simulation datasets,” Computational Materials Science, vol. 151, pp. 278–287, 2018.
 
 ## Contact
 * Zijiang Yang (zijiangyang2016@u.northwestern.edu)
