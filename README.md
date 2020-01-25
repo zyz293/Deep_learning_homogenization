@@ -16,7 +16,7 @@ To use this software, what the algorithm requires as input are a numpy array. Th
 1. data.pkl: Pickle file. Example data of two-phase high contrast three-dimensional microstructure. It contains 20 MVEs and the dimension of each MVE is 51*51*51.
 2. label.pkl: Pickle file. Example data of two-phase high contrast three-dimensional microstructure. It contains the macroscale (effective) stiffness of MVE in data.pkl file. 
 3. best_model.h5: HDF5 file. The best CNN model train in this work (see paper in the related publication section). It contains the configuration and weights for the CNN.
-4. model.py: Use he best CNN model train in this work (see paper in the related publication section) to directly predict the macroscale (effective) stiffness of the microstructure. 
+4. model.py: Use the best CNN model train in this work (see paper in the related publication section) to directly predict the macroscale (effective) stiffness of the microstructure. 
 5. train_model.py: The script to train CNN and its architecture is the same the best CNN train in this work (see paper in the related publication section). To get the best performance on new dataset, users might need to design customized architecture and tune the hyperparameters of CNN.
 
 ## How to run it
